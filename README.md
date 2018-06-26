@@ -1,3 +1,4 @@
+
 請在此【com.exam】這個package下實作所有的程式，完成一題請先 commit (最後再push全部的commits即可)
 <pre>
 第一題題目:
@@ -82,6 +83,7 @@ q) 離開(結束程式)
 大麥克 2份
 =================
 </pre>
+
 
 menu.txt的內容:
 <pre>
